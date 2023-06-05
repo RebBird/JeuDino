@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"B:/projet jeu dino/JeuDino/MyProject/Content/Main_Level.umap"
+=======
+				"D:/Unreal Engine 5/MyProject/Content/Menu/Menu.umap",
+				"D:/Unreal Engine 5/MyProject/Content/Menu/MenuMap.umap",
+				"D:/Unreal Engine 5/MyProject/Content/Menu/HUD_Menu.uasset",
+				"D:/Unreal Engine 5/MyProject/Content/Menu/main_menu_jeu.uasset"
+>>>>>>> 6eddb013724265f6597b7da156b7ba4ba7fb0962
 			]
 		}
 	]
